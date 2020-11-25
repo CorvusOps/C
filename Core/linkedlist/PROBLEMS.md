@@ -6,7 +6,7 @@
 
 Problem 1.1.1 | Problem 1.1.2 | Problem 1.1.3
 --------------- | --------------- | ---------------
-**Create** and **Display** a "Singly Linked | **Create** and **Display** a "Singly Linked in "Reverse" | **Create** and **Display** a "Singly Linked List" |      |      | and "**Count** the Number of Nodes" | 
+**Create** and **Display** a "Singly Linked | **Create** and **Display** a "Singly Linked in "Reverse" | **Create** and **Display** a "Singly Linked List" 	and "**Count** the Number of Nodes" | 
 
 #### - ADD -
 
